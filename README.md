@@ -2,4 +2,4 @@
 
 Capacitação promovita pela Cetec Capacitações - Centro Paula Souza
 
-Realização Agosto/2021
+Realização Agosto/2021# CapacitacaoGit
